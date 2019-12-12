@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 783b343132b290244bd9bd30b929e3cc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BucklesLow
+    100002: GauntletRenamed
+    100004: geo_1to2_bottom
+    100006: geo_1to2_top
+    100008: geo_2to3_bottom
+    100010: geo_2to3_top
+    100012: geo_BigPipe1
+    100014: geo_BigPipe2
+    100016: geo_BigPipe3
+    100018: geo_GauntletBack
+    100020: geo_Holder
+    100022: geo_Holder 1
+    100024: geo_Holder 2
+    100026: geo_HolderCog
+    100028: geo_HolderCog 1
+    100030: geo_HolderCog 2
+    100032: geo_LongCog
+    100034: geo_Pin
+    100036: geo_PipeGuide1
+    100038: geo_PipeGuide1 1
+    100040: geo_PipeGuide2
+    100042: geo_PipeGuide2 1
+    100044: geo_PipeGuide3
+    100046: geo_PipeGuide3 1
+    100048: geo_PipeGuide4
+    100050: geo_PipeGuide4 1
+    100052: geo_PipeGuide5
+    100054: geo_PipeGuide6
+    100056: geo_PipeGuide7
+    100058: geo_RetopoArm
+    100060: group3
+    100062: grp_ExtraCog
+    100064: grp_GameReady4
+    100066: grp_GemHolder1
+    100068: grp_GemHolder2
+    100070: grp_GemHolder3
+    100072: grp_Pipes
+    100074: grp_Piping
+    100076: grp_Piping1
+    100078: //RootNode
+    100080: HandleLeftGun
+    100082: pCube12
+    100084: pCube15
+    100086: pCube3polySurface10
+    100088: pCube4
+    100090: pCube5
+    100092: pCube6
+    100094: pCube7
+    100096: pCube8
+    100098: pCube9
+    100100: pCylinder16
+    100102: pCylinder17
+    100104: pCylinder19
+    100106: pCylinder20
+    100108: pCylinder21
+    100110: pCylinder22
+    100112: pCylinder23
+    100114: pCylinder24
+    100116: pCylinder25
+    100118: pCylinder26
+    100120: pCylinder27
+    100122: pCylinder28
+    100124: pCylinder29
+    100126: pCylinder30
+    100128: pCylinder31
+    100130: pCylinder32
+    100132: pCylinder33
+    100134: polySurface11pCube3
+    100136: polySurface16
+    100138: polySurface19
+    100140: polySurface5
+    100142: polySurface9
+    100144: pSphere2
+    400000: BucklesLow
+    400002: GauntletRenamed
+    400004: geo_1to2_bottom
+    400006: geo_1to2_top
+    400008: geo_2to3_bottom
+    400010: geo_2to3_top
+    400012: geo_BigPipe1
+    400014: geo_BigPipe2
+    400016: geo_BigPipe3
+    400018: geo_GauntletBack
+    400020: geo_Holder
+    400022: geo_Holder 1
+    400024: geo_Holder 2
+    400026: geo_HolderCog
+    400028: geo_HolderCog 1
+    400030: geo_HolderCog 2
+    400032: geo_LongCog
+    400034: geo_Pin
+    400036: geo_PipeGuide1
+    400038: geo_PipeGuide1 1
+    400040: geo_PipeGuide2
+    400042: geo_PipeGuide2 1
+    400044: geo_PipeGuide3
+    400046: geo_PipeGuide3 1
+    400048: geo_PipeGuide4
+    400050: geo_PipeGuide4 1
+    400052: geo_PipeGuide5
+    400054: geo_PipeGuide6
+    400056: geo_PipeGuide7
+    400058: geo_RetopoArm
+    400060: group3
+    400062: grp_ExtraCog
+    400064: grp_GameReady4
+    400066: grp_GemHolder1
+    400068: grp_GemHolder2
+    400070: grp_GemHolder3
+    400072: grp_Pipes
+    400074: grp_Piping
+    400076: grp_Piping1
+    400078: //RootNode
+    400080: HandleLeftGun
+    400082: pCube12
+    400084: pCube15
+    400086: pCube3polySurface10
+    400088: pCube4
+    400090: pCube5
+    400092: pCube6
+    400094: pCube7
+    400096: pCube8
+    400098: pCube9
+    400100: pCylinder16
+    400102: pCylinder17
+    400104: pCylinder19
+    400106: pCylinder20
+    400108: pCylinder21
+    400110: pCylinder22
+    400112: pCylinder23
+    400114: pCylinder24
+    400116: pCylinder25
+    400118: pCylinder26
+    400120: pCylinder27
+    400122: pCylinder28
+    400124: pCylinder29
+    400126: pCylinder30
+    400128: pCylinder31
+    400130: pCylinder32
+    400132: pCylinder33
+    400134: polySurface11pCube3
+    400136: polySurface16
+    400138: polySurface19
+    400140: polySurface5
+    400142: polySurface9
+    400144: pSphere2
+    2100000: lambert2
+    2100002: lambert1
+    2300000: BucklesLow
+    2300002: GauntletRenamed
+    2300004: geo_1to2_bottom
+    2300006: geo_1to2_top
+    2300008: geo_2to3_bottom
+    2300010: geo_2to3_top
+    2300012: geo_BigPipe1
+    2300014: geo_BigPipe2
+    2300016: geo_BigPipe3
+    2300018: geo_GauntletBack
+    2300020: geo_Holder
+    2300022: geo_Holder 1
+    2300024: geo_Holder 2
+    2300026: geo_HolderCog
+    2300028: geo_HolderCog 1
+    2300030: geo_HolderCog 2
+    2300032: geo_LongCog
+    2300034: geo_Pin
+    2300036: geo_PipeGuide1
+    2300038: geo_PipeGuide1 1
+    2300040: geo_PipeGuide2
+    2300042: geo_PipeGuide2 1
+    2300044: geo_PipeGuide3
+    2300046: geo_PipeGuide3 1
+    2300048: geo_PipeGuide4
+    2300050: geo_PipeGuide4 1
+    2300052: geo_PipeGuide5
+    2300054: geo_PipeGuide6
+    2300056: geo_PipeGuide7
+    2300058: geo_RetopoArm
+    2300060: HandleLeftGun
+    2300062: pCube12
+    2300064: pCube15
+    2300066: pCube3polySurface10
+    2300068: pCube4
+    2300070: pCube5
+    2300072: pCube6
+    2300074: pCube7
+    2300076: pCube8
+    2300078: pCube9
+    2300080: pCylinder16
+    2300082: pCylinder17
+    2300084: pCylinder19
+    2300086: pCylinder20
+    2300088: pCylinder21
+    2300090: pCylinder22
+    2300092: pCylinder23
+    2300094: pCylinder24
+    2300096: pCylinder25
+    2300098: pCylinder26
+    2300100: pCylinder27
+    2300102: pCylinder28
+    2300104: pCylinder29
+    2300106: pCylinder30
+    2300108: pCylinder31
+    2300110: pCylinder32
+    2300112: pCylinder33
+    2300114: polySurface11pCube3
+    2300116: polySurface16
+    2300118: polySurface19
+    2300120: polySurface5
+    2300122: polySurface9
+    2300124: pSphere2
+    3300000: BucklesLow
+    3300002: GauntletRenamed
+    3300004: geo_1to2_bottom
+    3300006: geo_1to2_top
+    3300008: geo_2to3_bottom
+    3300010: geo_2to3_top
+    3300012: geo_BigPipe1
+    3300014: geo_BigPipe2
+    3300016: geo_BigPipe3
+    3300018: geo_GauntletBack
+    3300020: geo_Holder
+    3300022: geo_Holder 1
+    3300024: geo_Holder 2
+    3300026: geo_HolderCog
+    3300028: geo_HolderCog 1
+    3300030: geo_HolderCog 2
+    3300032: geo_LongCog
+    3300034: geo_Pin
+    3300036: geo_PipeGuide1
+    3300038: geo_PipeGuide1 1
+    3300040: geo_PipeGuide2
+    3300042: geo_PipeGuide2 1
+    3300044: geo_PipeGuide3
+    3300046: geo_PipeGuide3 1
+    3300048: geo_PipeGuide4
+    3300050: geo_PipeGuide4 1
+    3300052: geo_PipeGuide5
+    3300054: geo_PipeGuide6
+    3300056: geo_PipeGuide7
+    3300058: geo_RetopoArm
+    3300060: HandleLeftGun
+    3300062: pCube12
+    3300064: pCube15
+    3300066: pCube3polySurface10
+    3300068: pCube4
+    3300070: pCube5
+    3300072: pCube6
+    3300074: pCube7
+    3300076: pCube8
+    3300078: pCube9
+    3300080: pCylinder16
+    3300082: pCylinder17
+    3300084: pCylinder19
+    3300086: pCylinder20
+    3300088: pCylinder21
+    3300090: pCylinder22
+    3300092: pCylinder23
+    3300094: pCylinder24
+    3300096: pCylinder25
+    3300098: pCylinder26
+    3300100: pCylinder27
+    3300102: pCylinder28
+    3300104: pCylinder29
+    3300106: pCylinder30
+    3300108: pCylinder31
+    3300110: pCylinder32
+    3300112: pCylinder33
+    3300114: polySurface11pCube3
+    3300116: polySurface16
+    3300118: polySurface19
+    3300120: polySurface5
+    3300122: polySurface9
+    3300124: pSphere2
+    4300000: geo_HolderCog
+    4300002: geo_Holder
+    4300004: geo_HolderCog
+    4300006: geo_Holder
+    4300008: geo_HolderCog
+    4300010: geo_Holder
+    4300012: geo_PipeGuide1
+    4300014: geo_1to2_top
+    4300016: geo_PipeGuide2
+    4300018: geo_1to2_bottom
+    4300020: geo_PipeGuide3
+    4300022: geo_PipeGuide4
+    4300024: geo_PipeGuide5
+    4300026: geo_PipeGuide6
+    4300028: geo_PipeGuide7
+    4300030: geo_PipeGuide1
+    4300032: geo_2to3_top
+    4300034: geo_PipeGuide2
+    4300036: geo_2to3_bottom
+    4300038: geo_PipeGuide3
+    4300040: geo_PipeGuide4
+    4300042: geo_BigPipe3
+    4300044: geo_BigPipe2
+    4300046: geo_BigPipe1
+    4300048: geo_Pin
+    4300050: geo_LongCog
+    4300052: GauntletRenamed
+    4300054: BucklesLow
+    4300056: geo_GauntletBack
+    4300058: geo_RetopoArm
+    4300060: polySurface16
+    4300062: polySurface11pCube3
+    4300064: pCube3polySurface10
+    4300066: pCube15
+    4300068: pCube12
+    4300070: pCube9
+    4300072: pCube8
+    4300074: pCylinder33
+    4300076: pCylinder32
+    4300078: pCube7
+    4300080: pCube6
+    4300082: pCylinder31
+    4300084: pCylinder30
+    4300086: pCylinder26
+    4300088: pCylinder25
+    4300090: pCylinder29
+    4300092: pCylinder28
+    4300094: pCylinder27
+    4300096: pCylinder24
+    4300098: pCylinder23
+    4300100: pCylinder20
+    4300102: pCylinder19
+    4300104: polySurface5
+    4300106: pCylinder22
+    4300108: pCylinder21
+    4300110: pCylinder17
+    4300112: pCube4
+    4300114: polySurface19
+    4300116: pCylinder16
+    4300118: pCube5
+    4300120: pSphere2
+    4300122: HandleLeftGun
+    4300124: polySurface9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

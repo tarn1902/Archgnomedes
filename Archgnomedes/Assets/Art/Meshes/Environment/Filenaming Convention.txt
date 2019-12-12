@@ -1,0 +1,7 @@
+type_Name_version_FileSpecific.filetype
+
+Example:
+
+geo_Crate_v01_Broken.fbx
+geo_Barrel_v03_UnBroken.fbx
+tex_Pot_v06_1024.png

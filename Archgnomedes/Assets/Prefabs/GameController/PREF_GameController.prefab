@@ -1,0 +1,324 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1125321590973357636
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1125321590973357637}
+  - component: {fileID: 2335928396861372242}
+  - component: {fileID: 5860594590973569886}
+  m_Layer: 0
+  m_Name: PREF_GameController
+  m_TagString: GameController
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1125321590973357637
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1125321590973357636}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.5675817, y: 0.5, z: -0.069511056}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2335928396861372242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1125321590973357636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a18cec2491c0cd4489be7bf67e802648, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentSpawnLocation: 0
+--- !u!114 &5860594590973569886
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1125321590973357636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95b72914c1041a14881cac3f78ddb617, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioFiles:
+  - audioName: Fire
+    audioClip: {fileID: 8300000, guid: bca9ff184f1e9e64bad1c6b205460a65, type: 3}
+    volume: 0.5
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 1
+    playOnAwake: 0
+  - audioName: Siege Noise
+    audioClip: {fileID: 8300000, guid: 2525335f592f2ca4284d36dbb7efbdc8, type: 3}
+    volume: 0.5
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 1
+    playOnAwake: 1
+  - audioName: Crate Smash
+    audioClip: {fileID: 8300000, guid: 8f0ee80938d9080498bc31db7aaf0836, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Orc Dead
+    audioClip: {fileID: 8300000, guid: 137fa51e1e73258428bc181fb21182dd, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Orc Step
+    audioClip: {fileID: 8300000, guid: 1b836e34df51cfd49845f462ebfbe339, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Orc Grown
+    audioClip: {fileID: 8300000, guid: 8e0b546fce53dd84ca4ec68b4cc537b6, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Orc See
+    audioClip: {fileID: 8300000, guid: d8d414fa3d9f7524b8a8c41f984bc47a, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Orc Shrunk
+    audioClip: {fileID: 8300000, guid: 30434c57aba0c664aa8b7883266cb269, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Bye_Bye
+    audioClip: {fileID: 8300000, guid: 86b34f573587b69449e87564eb5db7bb, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Cackle
+    audioClip: {fileID: 8300000, guid: f8403c1980d260340badb8ca39df3e60, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Didn't See You There
+    audioClip: {fileID: 8300000, guid: c296db54fdb20f747822527c2fb7c9f0, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Gnomeageddon
+    audioClip: {fileID: 8300000, guid: ab8a5dbbec0476f42b71bc0a170c6e42, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: GnomeMercy
+    audioClip: {fileID: 8300000, guid: 5e0eb7d4d8e96704b9227d1e7e46d029, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: GoHardOrGoGnome
+    audioClip: {fileID: 8300000, guid: f860a4333a600a2418b8b88adb55d1cf, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Hurt
+    audioClip: {fileID: 8300000, guid: 27700e3cd5e626f4eacbe0766e06db04, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: IAmGnomeMore
+    audioClip: {fileID: 8300000, guid: f46673b603586c24ba40e4dd3791fe30, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Laugh
+    audioClip: {fileID: 8300000, guid: f59e1a3062868274aa41f932e8ad32e2, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: LetItGrow
+    audioClip: {fileID: 8300000, guid: beea65ef51cebf2438ea46465413bbb4, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: NowWho'sShort
+    audioClip: {fileID: 8300000, guid: d47791edeca1336478eb4cdee592c27a, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Oops
+    audioClip: {fileID: 8300000, guid: 2daf155a2522d7d4a96882cb47b6f640, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Ow
+    audioClip: {fileID: 8300000, guid: 15486889f67deca44be3ecb4d0a859cd, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: ThatWasUnpleasant
+    audioClip: {fileID: 8300000, guid: 9ba904dd56987934f99f8bb187685ea7, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: TryThisOnForSize
+    audioClip: {fileID: 8300000, guid: 24cb5efe9e0ba7643a0301fb4b594eb2, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: WAFPTS
+    audioClip: {fileID: 8300000, guid: 7ba030bce237bf34385c17724df8b418, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: WatchIt
+    audioClip: {fileID: 8300000, guid: 98449ac3a294b064da28300495c6734b, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: WhoNeedsPhysics
+    audioClip: {fileID: 8300000, guid: f85bc7b065720674f9590bedb8551e3e, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: EOSRAY
+    audioClip: {fileID: 8300000, guid: 27a86300c34bc2c40b3eeb5d6aa0f78e, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: ImpactSim
+    audioClip: {fileID: 8300000, guid: 1554112cf7896974c878b5e30e9f88e1, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: PotSmash
+    audioClip: {fileID: 8300000, guid: f7a240752385ca14eae0e5f3a0b1444b, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: PunchLaunch
+    audioClip: {fileID: 8300000, guid: 600a553fd9e66874abe73d3f19a16d6c, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: PunchHit
+    audioClip: {fileID: 8300000, guid: f972254af585414409eea8eec7925c54, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: GrowthHit
+    audioClip: {fileID: 8300000, guid: 7b20f0151f937414eb41e19caa23a5cb, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: ShrinkHit
+    audioClip: {fileID: 8300000, guid: 7b20f0151f937414eb41e19caa23a5cb, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Health Pickup
+    audioClip: {fileID: 8300000, guid: 772b611b67981e34883a1cd86c09ff58, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  soundTrack:
+  - audioName: Combat
+    audioClip: {fileID: 8300000, guid: eb30c58ea43fe4c46a9b4a3ba1b5d532, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Menu
+    audioClip: {fileID: 8300000, guid: ab998899f3882ec4a8839e7382f8370d, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  - audioName: Regular
+    audioClip: {fileID: 8300000, guid: c82adac39425f704bbddd2a0c0ae1212, type: 3}
+    volume: 1
+    pitch: 0
+    source: {fileID: 0}
+    isLoop: 0
+    playOnAwake: 0
+  lowPitchRange: 0.9
+  highPitchRange: 1.1
+  musicVolume: 0
+  effectVolume: 0

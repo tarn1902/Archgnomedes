@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 28335db66fd51004b96898ad80f11631
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BucklesLow
+    100002: GauntletRenamed
+    100004: geo_1to2_bottom
+    100006: geo_1to2_top
+    100008: geo_2to3_bottom
+    100010: geo_2to3_top
+    100012: geo_BigPipe1
+    100014: geo_BigPipe2
+    100016: geo_BigPipe3
+    100018: geo_GauntletBack
+    100020: //RootNode
+    100022: geo_Holder
+    100024: geo_Holder 1
+    100026: geo_Holder 2
+    100028: geo_HolderCog
+    100030: geo_HolderCog 1
+    100032: geo_HolderCog 2
+    100034: geo_LongCog
+    100036: geo_Pin
+    100038: geo_PipeGuide1
+    100040: geo_PipeGuide1 1
+    100042: geo_PipeGuide2
+    100044: geo_PipeGuide2 1
+    100046: geo_PipeGuide3
+    100048: geo_PipeGuide3 1
+    100050: geo_PipeGuide4
+    100052: geo_PipeGuide4 1
+    100054: geo_PipeGuide5
+    100056: geo_PipeGuide6
+    100058: geo_PipeGuide7
+    100060: geo_RetopoArm
+    100062: grp_ExtraCog
+    100064: grp_GemHolder1
+    100066: grp_GemHolder2
+    100068: grp_GemHolder3
+    100070: grp_Pipes
+    100072: grp_Piping
+    100074: grp_Piping1
+    400000: BucklesLow
+    400002: GauntletRenamed
+    400004: geo_1to2_bottom
+    400006: geo_1to2_top
+    400008: geo_2to3_bottom
+    400010: geo_2to3_top
+    400012: geo_BigPipe1
+    400014: geo_BigPipe2
+    400016: geo_BigPipe3
+    400018: geo_GauntletBack
+    400020: //RootNode
+    400022: geo_Holder
+    400024: geo_Holder 1
+    400026: geo_Holder 2
+    400028: geo_HolderCog
+    400030: geo_HolderCog 1
+    400032: geo_HolderCog 2
+    400034: geo_LongCog
+    400036: geo_Pin
+    400038: geo_PipeGuide1
+    400040: geo_PipeGuide1 1
+    400042: geo_PipeGuide2
+    400044: geo_PipeGuide2 1
+    400046: geo_PipeGuide3
+    400048: geo_PipeGuide3 1
+    400050: geo_PipeGuide4
+    400052: geo_PipeGuide4 1
+    400054: geo_PipeGuide5
+    400056: geo_PipeGuide6
+    400058: geo_PipeGuide7
+    400060: geo_RetopoArm
+    400062: grp_ExtraCog
+    400064: grp_GemHolder1
+    400066: grp_GemHolder2
+    400068: grp_GemHolder3
+    400070: grp_Pipes
+    400072: grp_Piping
+    400074: grp_Piping1
+    2100000: lambert2
+    2300000: BucklesLow
+    2300002: GauntletRenamed
+    2300004: geo_1to2_bottom
+    2300006: geo_1to2_top
+    2300008: geo_2to3_bottom
+    2300010: geo_2to3_top
+    2300012: geo_BigPipe1
+    2300014: geo_BigPipe2
+    2300016: geo_BigPipe3
+    2300018: geo_GauntletBack
+    2300020: geo_Holder
+    2300022: geo_Holder 1
+    2300024: geo_Holder 2
+    2300026: geo_HolderCog
+    2300028: geo_HolderCog 1
+    2300030: geo_HolderCog 2
+    2300032: geo_LongCog
+    2300034: geo_Pin
+    2300036: geo_PipeGuide1
+    2300038: geo_PipeGuide1 1
+    2300040: geo_PipeGuide2
+    2300042: geo_PipeGuide2 1
+    2300044: geo_PipeGuide3
+    2300046: geo_PipeGuide3 1
+    2300048: geo_PipeGuide4
+    2300050: geo_PipeGuide4 1
+    2300052: geo_PipeGuide5
+    2300054: geo_PipeGuide6
+    2300056: geo_PipeGuide7
+    2300058: geo_RetopoArm
+    3300000: BucklesLow
+    3300002: GauntletRenamed
+    3300004: geo_1to2_bottom
+    3300006: geo_1to2_top
+    3300008: geo_2to3_bottom
+    3300010: geo_2to3_top
+    3300012: geo_BigPipe1
+    3300014: geo_BigPipe2
+    3300016: geo_BigPipe3
+    3300018: geo_GauntletBack
+    3300020: geo_Holder
+    3300022: geo_Holder 1
+    3300024: geo_Holder 2
+    3300026: geo_HolderCog
+    3300028: geo_HolderCog 1
+    3300030: geo_HolderCog 2
+    3300032: geo_LongCog
+    3300034: geo_Pin
+    3300036: geo_PipeGuide1
+    3300038: geo_PipeGuide1 1
+    3300040: geo_PipeGuide2
+    3300042: geo_PipeGuide2 1
+    3300044: geo_PipeGuide3
+    3300046: geo_PipeGuide3 1
+    3300048: geo_PipeGuide4
+    3300050: geo_PipeGuide4 1
+    3300052: geo_PipeGuide5
+    3300054: geo_PipeGuide6
+    3300056: geo_PipeGuide7
+    3300058: geo_RetopoArm
+    4300000: geo_HolderCog
+    4300002: geo_Holder
+    4300004: geo_HolderCog
+    4300006: geo_Holder
+    4300008: geo_HolderCog
+    4300010: geo_Holder
+    4300012: geo_PipeGuide1
+    4300014: geo_1to2_top
+    4300016: geo_PipeGuide2
+    4300018: geo_1to2_bottom
+    4300020: geo_PipeGuide3
+    4300022: geo_PipeGuide4
+    4300024: geo_PipeGuide5
+    4300026: geo_PipeGuide6
+    4300028: geo_PipeGuide7
+    4300030: geo_PipeGuide1
+    4300032: geo_2to3_top
+    4300034: geo_PipeGuide2
+    4300036: geo_2to3_bottom
+    4300038: geo_PipeGuide3
+    4300040: geo_PipeGuide4
+    4300042: geo_BigPipe3
+    4300044: geo_BigPipe2
+    4300046: geo_BigPipe1
+    4300048: geo_Pin
+    4300050: geo_LongCog
+    4300052: GauntletRenamed
+    4300054: BucklesLow
+    4300056: geo_GauntletBack
+    4300058: geo_RetopoArm
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
